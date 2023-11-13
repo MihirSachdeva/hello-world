@@ -1,6 +1,6 @@
 # hello-world
 
-kinda customary! *wink wink*
+Kinda customary! *wink wink*
 
 Learning how GitHub works.
 Seems pretty straightforward till now.
